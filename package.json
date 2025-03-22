@@ -1,6 +1,7 @@
 {
   "name": "ra-hw-store-class",
   "version": "0.0.0",
+  "private": true,
   "description": "Homeworks",
   "homepage": "https://github.com/oksana-danilova/ra-hw-store-class/",
   "bugs": {
