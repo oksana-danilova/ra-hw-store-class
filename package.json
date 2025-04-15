@@ -13,7 +13,6 @@
   },
   "license": "ISC",
   "author": "oksana-danilova",
-  "type": "module",
   "main": "main.jsx",
   "scripts": {
     "dev": "vite",
